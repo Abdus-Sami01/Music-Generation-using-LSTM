@@ -72,5 +72,5 @@ This project is open-source and available under the **MIT License**.
 📌 **Repository Link:** [GitHub](https://github.com/your-repo-link/music-generation-using-deep-learning)
 
 ---
-🔹 **Author:** [Your Name](https://github.com/your-profile)
+🔹 **Author:** [Abdus-Sami01](https://github.com/Abdus-Sami01)
 
